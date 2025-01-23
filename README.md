@@ -8,17 +8,15 @@ Welcome to my GitHub! I'm a passionate programmer and developer with a focus on 
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently working on a **Computer Vision Lab**, developing models for image segmentation and object detection.
+- 🎓 I'm currently working on a Discord bot, enhancing its functionality to automate tasks and improve user experience.
 - 📚 Currently diving deep into the ethical implications of **artificial intelligence** and its relationship with **human agency**.
-- 🔧 I love solving complex problems and building innovative projects, from **game development** to **AI-powered solutions**.
-- 🌍 I believe in the power of **ethical AI** to drive positive societal changes.
+- 🌍 I believe in the power of **AI** to drive positive societal changes.
 
 ### 🛠️ My Skill Set
 
-- **Languages**: Java, Python, C++, SQL
+- **Languages**: Python, C, Javascript, Java
 - **Tools**: OpenCV, SciKit-Learn, TensorFlow, PyTorch
-- **Frameworks**: Flask, Spring, Django
-- **Concepts**: AI Ethics, Machine Learning, Computer Vision, Game Development, Data Structures & Algorithms
+- **Concepts**: AI Ethics, Machine Learning, Computer Vision, Data Structures & Algorithms
 
 ### 📂 Projects
 
