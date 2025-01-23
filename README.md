@@ -24,7 +24,7 @@ I'm currently diving deep into the world of **AI** and **automation**, and right
 #### 💼 **IBM – Employment Solution Prototype for People with Disabilities**  
 *Tools: HTML, IBM Watson*  
 *January 2024 – February 2024*  
-- Collaborated with a team of 5 to develop an **AI-powered prototype** aimed at improving job accessibility for disabled individuals, which received high praise from IBM for its innovation and societal impact. Click here to view the LinkedIn post!](https://www.linkedin.com/feed/update/urn:li:activity:7158341219847229440/)
+- Collaborated with a team of 5 to develop an **AI-powered prototype** aimed at improving job accessibility for disabled individuals, which received high praise from IBM for its innovation and societal impact. [Click here to view the LinkedIn post!](https://www.linkedin.com/feed/update/urn:li:activity:7158341219847229440/)
 - Integrated inclusive design principles and delivered an intuitive, user-friendly interface.
 - Gained valuable experience in **project management**, teamwork, and **UI/UX design**.
 
