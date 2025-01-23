@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aryan!
 
-Welcome to my GitHub! I'm a passionate programmer and developer with a strong focus on **machine learning** and **computer vision**.
+Welcome to my GitHub! I'm a passionate computer science student with a strong focus on **machine learning** and **computer vision**.
 
 ---
 
