@@ -1,46 +1,32 @@
-Here’s the updated README with the two projects removed:
+👋 Hi, I'm Aryan!
 
----
+Welcome to my GitHub! I'm a passionate programmer and developer with a strong focus on machine learning and computer vision.
 
-# Hi there 👋, I'm Aryan!
+🧑‍💻 About Me
+I'm currently diving deep into the world of AI and automation, and right now, I’m enhancing the functionality of a Discord bot to streamline tasks and improve user experience.
 
-Welcome to my GitHub! I'm a passionate programmer and developer with a focus on various domains such as **Java** game development, **machine learning**, **computer vision**, and **ethical AI**. My interests also include **robot ethics** and **technology's impact on society**, especially in the context of data extraction and commodification.
+🛠️ My Skills
+Languages: Python, C, Java, JavaScript
+Tools & Frameworks: OpenCV, SciKit-Learn, TensorFlow, PyTorch
+Core Concepts: AI Ethics, Machine Learning, Computer Vision, Data Structures & Algorithms
+📂 Notable Projects
+🐢 Turtle Image Segmentation Model
 
-### 🧑‍💻 About Me
+Tools: Python, TensorFlow
+September 2024 – November 2024
 
-- 🎓 I'm currently working on a Discord bot, enhancing its functionality to automate tasks and improve user experience.
-- 📚 Currently diving deep into the ethical implications of **artificial intelligence** and its relationship with **human agency**.
-- 🌍 I believe in the power of **AI** to drive positive societal changes.
+Designed and implemented U-Net and DeepLabv3+ deep learning models to segment turtle images with varying lighting conditions.
+Processed over 8,700 annotated images, optimizing model accuracy and performance.
+Achieved a remarkable mean IoU of 0.83 with the DeepLabv3+ model, significantly enhancing segmentation precision.
+💼 IBM – Employment Solution Prototype for People with Disabilities
 
-### 🛠️ My Skill Set
+Tools: HTML, IBM Watson
+January 2024 – February 2024
 
-- **Languages**: Python, C, Javascript, Java
-- **Tools**: OpenCV, SciKit-Learn, TensorFlow, PyTorch
-- **Concepts**: AI Ethics, Machine Learning, Computer Vision, Data Structures & Algorithms
+Collaborated with a team of 5 to develop an AI-powered prototype aimed at improving job accessibility for disabled individuals, which received high praise from IBM for its innovation and societal impact.
+Integrated inclusive design principles and delivered an intuitive, user-friendly interface.
+Gained valuable experience in project management, teamwork, and UI/UX design.
+📫 Get in Touch
+Feel free to reach out if you want to collaborate or discuss ideas!
 
-### 📂 Projects
-
-#### 🐢 **Turtle Image Segmentation Model**  
-*Tools & Technologies: Python, TensorFlow*  
-*September 2024 - November 2024*  
-- Developed U-Net and DeepLabv3+ based deep learning models for segmenting turtle images under varying lighting conditions.
-- Processed 8,700+ annotated images to enhance model robustness and efficiency.
-- Achieved a staggering mean IOU of 0.83 for the DeepLabv3+ model.
-
-#### 💼 **IBM – Employment Solution Prototype for Disabled People**  
-*Tools & Technologies: HTML, IBM Watson*  
-*January 2024 – February 2024*  
-- Collaborated with a team of 5 to create an AI-driven prototype improving job accessibility for disabled individuals, which was appreciated by IBM for its innovation and impact.
-- Integrated accessible design features and delivered a streamlined user interface.
-- Gained experience in project management, teamwork, and technical skills.
-
-You can explore more of my work through the repositories listed below!
-
-### 📫 Get in Touch
-
-- 💬 Feel free to open an issue or send a pull request for any of the projects I'm working on.
-- ✉️ Reach me at: arygupta04@gmail.com
-
----
-
-Let me know if you'd like to make any further changes!
+✉️ Email: arygupta04@gmail.com
