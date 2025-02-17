@@ -1,20 +1,18 @@
 # 👋 Hi, I'm Aryan!
 
-Welcome to my GitHub! I'm a passionate computer science student with a strong focus on **machine learning** and **computer vision**.
+Welcome to my GitHub! I'm a dedicated computer science student passionate about solving real-world problems with **machine learning**, **computer vision**, and **AI-driven solutions**.
 
 ---
 
 ### 🧑‍💻 About Me
-
-I'm currently diving deep into the world of **AI** and **automation**, and right now, I’m enhancing the functionality of a **Discord bot** to streamline tasks and improve user experience.
+I love building impactful projects that combine creativity with technology. My experience spans across **AI development**, **backend engineering**, and **deep learning models**, reflecting my commitment to continuous learning and innovation.
 
 ---
 
 ### 🛠️ My Skills
-
-- **Languages**: Python, C, Java, JavaScript
-- **Tools & Frameworks**: OpenCV, SciKit-Learn, TensorFlow, PyTorch
-- **Core Concepts**: AI Ethics, Machine Learning, Computer Vision, Data Structures & Algorithms
+- **Languages:** Python, C, Java, JavaScript  
+- **Tools & Frameworks:** OpenCV, SciKit-Learn, TensorFlow, PyTorch  
+- **Core Concepts:** AI Ethics, Machine Learning, Computer Vision, Data Structures & Algorithms
 
 ---
 
@@ -22,25 +20,36 @@ I'm currently diving deep into the world of **AI** and **automation**, and right
 
 #### 🐢 **Turtle Image Segmentation Model**  
 *Tools: Python, TensorFlow*  
-*September 2024 – November 2024*  
-- Designed and implemented U-Net and DeepLabv3+ deep learning models to segment turtle images with varying lighting conditions.  
-- Processed over **8,700 annotated images**, optimizing model accuracy and performance.  
-- Achieved a remarkable **mean IoU of 0.83** with the DeepLabv3+ model, significantly enhancing segmentation precision.
+- Implemented U-Net and DeepLabv3+ models for turtle image segmentation.  
+- Processed **8,700+ annotated images**, achieving a **mean IoU of 0.83**.  
+[GitHub Repository](https://github.com/arygupta04/turtle-segmentation)
 
----
+#### 🚀 **AwakeMate – Drowsiness Detection App**  
+*Tools: Python, OpenCV, Flask, Pygame*  
+- Developed real-time drowsiness detection using facial landmarks.  
+- Integrated Flask for live streaming with real-time overlays.  
+[GitHub Repository](https://github.com/arygupta04/AwakeMate)
 
-#### 💼 **IBM – Employment Solution Prototype for People with Disabilities**  
+#### 🛡️ **ToxiGuard – Safer Discord Communities**  
+*Tools: Python, TensorFlow, Discord API*  
+- Built a deep learning model with **99.27% accuracy** for detecting toxic messages.  
+- Automated moderation with message deletion and warnings.  
+[GitHub Repository](https://github.com/arygupta04/ToxiGuard)
+
+#### 📊 **Toohak – Interactive Quiz App**  
+*Tools: JavaScript (Node.js), Express.js*  
+- Developed backend logic for quiz creation and gameplay.  
+- Integrated backend with React-based frontend.  
+[GitHub Repository](https://github.com/arygupta04/toohakQuizApplication)
+
+#### 💼 **IBM – Employment Solution for People with Disabilities**  
 *Tools: HTML, IBM Watson*  
-*January 2024 – February 2024*  
-- Collaborated with a team of 5 to develop an **AI-powered prototype** aimed at improving job accessibility for disabled individuals, which received high praise from IBM for its innovation and societal impact.  
-  [Click here to view the LinkedIn post!](https://www.linkedin.com/feed/update/urn:li:activity:7158341219847229440/)  
-- Integrated inclusive design principles and delivered an intuitive, user-friendly interface.  
-- Gained valuable experience in **project management**, teamwork, and **UI/UX design**.
+- Contributed to an AI-driven prototype for improving job accessibility.  
+- Enhanced accessible design and UI, recognized by IBM.  
+[GitHub Repository](https://github.com/arygupta04/job-access-improved-prototype)
 
 ---
 
 ### 📫 Get in Touch
-
-Feel free to reach out if you want to collaborate or discuss ideas!
-
 - ✉️ Email: [arygupta04@gmail.com](mailto:arygupta04@gmail.com)
+
