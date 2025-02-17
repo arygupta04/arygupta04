@@ -22,7 +22,7 @@ I love building impactful projects that combine creativity with technology. My e
 *Tools: Python, TensorFlow*  
 - Implemented U-Net and DeepLabv3+ models for turtle image segmentation.  
 - Processed **8,700+ annotated images**, achieving a **mean IoU of 0.83**.  
-[GitHub Repository](https://github.com/arygupta04/turtle-segmentation)
+[GitHub Repository](https://github.com/arygupta04/visioneerium)
 
 #### 🚀 **AwakeMate – Drowsiness Detection App**  
 *Tools: Python, OpenCV, Flask, Pygame*  
@@ -52,4 +52,5 @@ I love building impactful projects that combine creativity with technology. My e
 
 ### 📫 Get in Touch
 - ✉️ Email: [arygupta04@gmail.com](mailto:arygupta04@gmail.com)
+- 📱 Mobile: 0432121905
 
