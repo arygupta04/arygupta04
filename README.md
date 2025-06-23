@@ -32,7 +32,7 @@ I love building impactful projects that combine creativity with technology. My e
 
 #### 🛡️ **ToxiGuard – Safer Discord Communities**  
 *Tools: Python, TensorFlow, Discord API*  
-- Built a deep learning model with **99.27% accuracy** for detecting toxic messages.  
+- Built a deep learning model with **91% accuracy** for detecting toxic messages.  
 - Automated moderation with message deletion and warnings.  
 [GitHub Repository](https://github.com/arygupta04/ToxiGuard)
 
