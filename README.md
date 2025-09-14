@@ -1,22 +1,46 @@
 # 👋 Hi, I'm Aryan!
 
-Welcome to my GitHub! I'm a dedicated computer science student passionate about solving real-world problems with **machine learning**, **computer vision**, and **AI-driven solutions**.
+Welcome to my GitHub! I'm a Computer Science student at UNSW passionate about building **AI-driven applications that create real-world impact** — from **retrieval-augmented chatbots** to **deep learning models** for safety, accessibility, and accessibility.
 
 ---
 
-### 🧑‍💻 About Me
-I love building impactful projects that combine creativity with technology. My experience spans across **AI development**, **backend engineering**, and **deep learning models**, reflecting my commitment to continuous learning and innovation.
+## 🧑‍💻 About Me
+- 🎓 Studying Computer Science at UNSW (Distinction WAM)  
+- 🤖 Passionate about **AI for social good** (mental health, online safety, accessibility)  
+- 💻 Experienced in **AI development, backend engineering, and full-stack prototypes**  
+- 🚀 Love hackathons, rapid prototyping, and working in small, high-energy teams  
 
 ---
 
-### 🛠️ My Skills
-- **Languages:** Python, C, Java, JavaScript  
-- **Tools & Frameworks:** OpenCV, SciKit-Learn, TensorFlow, PyTorch  
-- **Core Concepts:** AI Ethics, Machine Learning, Computer Vision, Data Structures & Algorithms
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, Java, C, SQL  
+**Frameworks & Tools:** Streamlit, Express.js, LangChain, Git  
+**AI/ML Libraries:** HuggingFace, TensorFlow, PyTorch, Scikit-learn, OpenCV, FAISS  
+**Databases:** PostgreSQL, Vector DBs (FAISS)  
+**Other:** Docker (learning)
 
 ---
 
-### 📂 Notable Projects
+## 📌 Featured Projects
+
+### 🎥 TalkWithTube – RAG-Powered YouTube Chatbot  
+*Tools: Python, Streamlit, LangChain, FAISS, LLaMA 3*  
+- Built an **AI chatbot** that answers YouTube video questions using transcript-based retrieval.  
+- Integrated **embeddings + FAISS** for **RAG-powered responses**.  
+- Built a **Streamlit app** with persistent chat history & embedded video.  
+[GitHub Repository](https://github.com/arygupta04/talkwithtube)
+
+#### 💼 **IBM – Employment Solution for People with Disabilities**  
+*Tools: HTML, IBM Watson*  
+- Contributed to an AI-driven prototype for improving job accessibility.  
+- Enhanced accessible design and UI, recognized by IBM.  
+[GitHub Repository](https://github.com/arygupta04/job-access-improved-prototype)
+
+#### 🛡️ **ToxiGuard – Safer Discord Communities**  
+*Tools: Python, TensorFlow, Discord API*  
+- Built a deep learning model with **91% accuracy** for detecting toxic messages.  
+- Automated moderation with message deletion and warnings.  
+[GitHub Repository](https://github.com/arygupta04/ToxiGuard)
 
 #### 🐢 **Turtle Image Segmentation Model**  
 *Tools: Python, TensorFlow*  
@@ -30,23 +54,11 @@ I love building impactful projects that combine creativity with technology. My e
 - Integrated Flask for live streaming with real-time overlays.  
 [GitHub Repository](https://github.com/arygupta04/AwakeMate)
 
-#### 🛡️ **ToxiGuard – Safer Discord Communities**  
-*Tools: Python, TensorFlow, Discord API*  
-- Built a deep learning model with **91% accuracy** for detecting toxic messages.  
-- Automated moderation with message deletion and warnings.  
-[GitHub Repository](https://github.com/arygupta04/ToxiGuard)
-
 #### 📊 **Toohak – Interactive Quiz App**  
 *Tools: JavaScript (Node.js), Express.js*  
 - Developed backend logic for quiz creation and gameplay.  
 - Integrated backend with React-based frontend.  
 [GitHub Repository](https://github.com/arygupta04/toohakQuizApplication)
-
-#### 💼 **IBM – Employment Solution for People with Disabilities**  
-*Tools: HTML, IBM Watson*  
-- Contributed to an AI-driven prototype for improving job accessibility.  
-- Enhanced accessible design and UI, recognized by IBM.  
-[GitHub Repository](https://github.com/arygupta04/job-access-improved-prototype)
 
 ---
 
